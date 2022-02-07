@@ -1,0 +1,25 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "Home" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "Home" Page                                  */
+/*-----------------------------------------------*/
+body.page-id-2 #footer-widgets{
+	display: none;
+}
+
+body.page-id-2 #masthead{
+	min-height:224px;
+}
